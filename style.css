@@ -27,11 +27,11 @@ body {
   padding: 20px;
   height: 500px;
 }
-span {
+#food {
   color: #1864b1;
 }
-#span2 {
-  color: #001f3f;
+#network {
+  color: #576879;
 }
 .text-area {
   width: 46%;
@@ -86,7 +86,7 @@ span {
   margin-left: 39px;
   margin-top: 16px;
 }
-#span3 {
+#about-us {
   color: #001f3f;
   font-size: 30px;
   text-align: center;
@@ -104,6 +104,11 @@ span {
   padding: 20px;
   height: 500px;
   margin-top: 30px;
+}
+#recipies {
+  color: #001f3f;
+  font-size: 30px;
+  text-align: center;
 }
 .recipies-section p {
   text-align: center;
@@ -148,11 +153,4 @@ span {
 
 .footer-area p {
   color: cornsilk;
-}
-#span4 {
-  color: #3c46cefa;
-  word-spacing: 5px;
-}
-#span5 {
-  color: beige;
 }
